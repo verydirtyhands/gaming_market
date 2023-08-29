@@ -37,4 +37,4 @@
 
 ---
 
-#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/taxi_counter/blob/main/p4f.ipynb'>Иследование игрового рынка</a>
+#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/gaming_market/blob/main/p4f.ipynb'>Иследование игрового рынка</a>
